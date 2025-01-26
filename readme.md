@@ -40,6 +40,7 @@ Projeto de extensão para capacitação em sensoriamento remoto e geotecnologias
 
 - 📧 Email: [isaaclemossjn@gmail.com@gmail.com](mailto:eddienorte@gmail.com)
 - 🌐 Currículo Lattes: [https://lattes.cnpq.br/4741195530539811](https://lattes.cnpq.br/4741195530539811)
+- 🌐 Linkedin (https://www.linkedin.com/in/isaac-lemos-da-siva-0b618b82/)
 
 ---
 
