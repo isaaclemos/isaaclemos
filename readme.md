@@ -34,11 +34,11 @@ Projeto de extensão para capacitação em sensoriamento remoto e geotecnologias
 - **Frameworks**: Flask, Django.
 - **Ferramentas Geoespaciais**: QGIS, PostGIS.
 - **Hardware**: Raspberry Pi, sensores termais e de infravermelho próximo.
-- **Outras Tecnologias**: NumPy, Plotly, Docker.
+- **Outras Tecnologias**: NumPy, Plotly.
 
 ## Contato
 
-- 📧 Email: [eddienorte@gmail.com](mailto:eddienorte@gmail.com)
+- 📧 Email: [isaaclemossjn@gmail.com@gmail.com](mailto:eddienorte@gmail.com)
 - 🌐 Currículo Lattes: [https://lattes.cnpq.br/4741195530539811](https://lattes.cnpq.br/4741195530539811)
 
 ---
