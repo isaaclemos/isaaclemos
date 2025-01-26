@@ -7,8 +7,7 @@ Olá! Sou **Isaac Lemos da Silva**, graduado em Análise e Desenvolvimento de Si
 - 🎓 **Formação Acadêmica**:
   - Graduação em Análise e Desenvolvimento de Sistemas (2022).
   - Técnico em Geoprocessamento (2017).
-- 📍 Residente em São José do Norte, Rio Grande do Sul, Brasil.
-- 💡 Especialidades:
+- 💡 **Especialidades**:
   - Desenvolvimento de sistemas para sensoriamento remoto.
   - Modelagem de dados geoespaciais.
   - Tecnologias open source aplicadas à agricultura.
@@ -38,9 +37,9 @@ Projeto de extensão para capacitação em sensoriamento remoto e geotecnologias
 
 ## Contato
 
-- 📧 Email: [isaaclemossjn@gmail.com](mailto:eddienorte@gmail.com)
+- 📧 Email: [isaaclemossjn@gmail.com](mailto:isaaclemossjn@gmail.com)
 - 🌐 [Currículo Lattes](https://lattes.cnpq.br/4741195530539811)
-- 🌐 [Linkedin](https://www.linkedin.com/in/isaac-lemos-da-siva-0b618b82/)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/isaac-lemos-da-siva-0b618b82/)
 
 ---
 
