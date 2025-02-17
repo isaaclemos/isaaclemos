@@ -29,11 +29,11 @@ Projeto de extensão para capacitação em sensoriamento remoto e geotecnologias
 
 ## Habilidades Técnicas
 
-- **Linguagens de Programação**: Python, JavaScript.
-- **Frameworks**: Flask, Django.
+- **Linguagens de Programação**: Python, JavaScript, Java, PHP.
+- **Frameworks**: Flask, Django, Spring, Laravel.
 - **Ferramentas Geoespaciais**: QGIS, PostGIS.
 - **Hardware**: Raspberry Pi, sensores termais e de infravermelho próximo.
-- **Outras Tecnologias**: NumPy, Plotly.
+- **Outras Tecnologias**: Linux, Rasperry, Raspicam.
 
 ## Contato
 
