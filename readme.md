@@ -33,7 +33,7 @@ Projeto de extensão para capacitação em sensoriamento remoto e geotecnologias
 - **Frameworks**: Flask, Django, Spring, Laravel.
 - **Ferramentas Geoespaciais**: QGIS, PostGIS.
 - **Hardware**: Raspberry Pi, sensores termais e de infravermelho próximo.
-- **Outras Tecnologias**: Linux, Rasperry, Raspicam.
+- **Outras Tecnologias**: Linux.
 
 ## Contato
 
